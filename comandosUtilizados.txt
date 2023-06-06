@@ -1,0 +1,31 @@
+git init
+git remote add origin https://github.com/Roberto-Giler/20230605-RobertoGiler.git
+  500  git commit -m "commit 01 de RobertoGiler"
+  501  touch comandos.txt main.js  index.html
+  502  git add .
+  503  git commit -m "commit 01 de RobertoGiler"
+  504  git push -u origin main
+  505  git branch
+  506  git checkout -b feature01
+  507  git branch
+  508  mkdir Terminal Hardware
+  509  touch ./Terminal/resumen.txt
+  510  touch ./Hardware/resumen.txt
+  511  git checkout main
+  512  git branch
+  513  git checkout feature01
+  514  git push -u origin feature01
+  515  git add .
+  516  git commit -m "commit 02 de RobertoGiler"
+  517  git push -u origin feature01
+  518  git checkout -b feature02
+  519  git branch
+  520  got branch
+  521  git branch
+  522  git add .
+  523  git commit -m "commit 03 de RobertoGiler"
+  524  git push -u origin feature02
+  525  git checkout main
+  526  git branch
+  527  mv comandos.txt comandosUtilizados.txt
+  528  history
