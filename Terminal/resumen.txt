@@ -1,0 +1,5 @@
+mkdir: Crea un directorio.
+rm: Elimina un archivo.
+rmdi: elimina un directorio.
+touch: Crea un archivo.
+cp: Cambia de directorio.

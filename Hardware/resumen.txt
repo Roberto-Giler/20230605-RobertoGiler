@@ -1,0 +1,5 @@
+cpu: Es el responsable de ejecutar las instrucciones de los programas y realizar cálculos y operaciones lógicas.
+
+memororia principal: también conocido como almacenamiento principal o la memoria, es el área en un equipo de cómputo en el que se almacenan los datos para un rápido acceso por el procesador de la computadora y almacena los datos necesarios para el encendido de la misma.
+
+memoria secundaria:La memoria secundaria se refiere a los dispositivos de almacenamiento de largo plazo en una computadora, como discos duros, SSD (Solid-State Drives) y unidades de almacenamiento externas.
